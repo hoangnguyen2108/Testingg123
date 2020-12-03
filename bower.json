@@ -1,0 +1,23 @@
+{
+  "name": "We Application",
+  "description": "## Welcome to One Survey",
+  "main": "server.js",
+  "authors": [
+    "Angela Liu",
+    "Sisi Li",
+    "John Hao",
+    "Giho Kim",
+    "Ryan Huang"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "EJS"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
