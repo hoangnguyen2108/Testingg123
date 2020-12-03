@@ -27,6 +27,18 @@
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^4.0.0",
     "serve-favicon": "~2.3.2"
-  }
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangnguyen2108/Testingg123.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangnguyen2108/Testingg123/issues"
+  },
+  "homepage": "https://github.com/hoangnguyen2108/Testingg123#readme",
+  "description": ""
 }
-
